@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Top.SchDoc
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=Aux|SchDesignator=Aux|FileName=AuxHalfH.SchDoc|SymbolType=Normal|RawFileName=AuxHalfH.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=Motor 0|SchDesignator=Motor 0|FileName=MotorCell.SchDoc|SymbolType=Normal|RawFileName=MotorCell.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=Motor 1|SchDesignator=Motor 1|FileName=MotorCell_noPow.SchDoc|SymbolType=Normal|RawFileName=MotorCell_noPow.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
