@@ -3,6 +3,8 @@ This project is all about accuratly driving brushless motors, for cheap. The aim
 Like this:
 [![Servo motor control demo](https://j.gifs.com/lYx7k6.gif)](https://www.youtube.com/watch?v=WT4E5nb3KtY)
 
+If you want to get your hands on a board, check out [this post](https://hackaday.io/project/11583-odrive-high-performance-motor-control/log/40702-boards-and-development).
+
 This repository contains the circuit board design of ODrive. The other related repositories are:
 * [ODriveFirmware](https://github.com/madcowswe/ODriveFirmware): Firmware that runs on the board.
 * [ODrive](https://github.com/madcowswe/ODrive): Configuration and analysis scripts that runs on a PC.
