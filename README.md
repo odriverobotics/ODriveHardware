@@ -15,6 +15,6 @@ There is also [ODriveFPGA](https://github.com/madcowswe/ODriveFPGA), which conta
 The pinout from the microcontroller to the board is documented [here](https://docs.google.com/spreadsheets/d/1QXDCs1IRtUyG__M_9WruWOheywb-GhOwFtfPcHuN2Fg/edit?usp=sharing).
 
 ### Pictures!
-![Odrive v3 top](https://raw.githubusercontent.com/madcowswe/ODriveHardware/master/v3/OdriveTop.PNG)
-![Odrive v3 bottom](https://raw.githubusercontent.com/madcowswe/ODriveHardware/master/v3/OdriveBot.PNG)
+![Odrive v3.1 top](https://cdn.hackaday.io/images/8135651482554401117.png)
+![Odrive v3.1 bottom](https://cdn.hackaday.io/images/6142841482554487941.jpg)
 
