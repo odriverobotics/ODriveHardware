@@ -18,3 +18,6 @@ The pinout from the microcontroller to the board is documented [here](https://do
 ![Odrive v3.1 top](https://cdn.hackaday.io/images/8135651482554401117.png)
 ![Odrive v3.1 bottom](https://cdn.hackaday.io/images/6142841482554487941.jpg)
 
+### ODrive v3.1 errata
+* The silkscreen labels for the encoders (M0, M1) are reversed.
+* The output impedence of the current amplifiers were not considered when designing the post-amplifier filters. Hence the response is about 5x slower than designed. Max allowed modulation index is therefore about 50%.
