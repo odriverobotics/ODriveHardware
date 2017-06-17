@@ -1,17 +1,17 @@
 
 ## [3.3] - 2017-06-17
 ### Added
-Power LED
-Pads on DC rail, for secondary power connection, on the opposite side of main power connector
+* Power LED
+* Pads on DC rail, for secondary power connection, on the opposite side of main power connector
 
 ### Changed
-GPIO Pinout. See: https://docs.google.com/spreadsheets/d/1QXDCs1IRtUyG__M_9WruWOheywb-GhOwFtfPcHuN2Fg/edit#gid=404444347
-Fliped LDO and C29 to bot side, for better clearance on top side for enclosure style heatsinking.
-Changed all screw terminals to 7.62mm pitch
-Encoder pullup resistance 1k -> 3.3k, to be compatible with 2mA push-pull encoders without desoldering.
+* GPIO Pinout. See: https://docs.google.com/spreadsheets/d/1QXDCs1IRtUyG__M_9WruWOheywb-GhOwFtfPcHuN2Fg/edit#gid=404444347
+* Fliped LDO and C29 to bot side, for better clearance on top side for enclosure style heatsinking.
+* Changed all screw terminals to 7.62mm pitch
+* Encoder pullup resistance 1k -> 3.3k, to be compatible with 2mA push-pull encoders without desoldering.
 
 ### Removed
-AUX_V voltage measurment no longer available.
+* AUX_V voltage measurment no longer available.
 
 
 ## [3.2] - 2017-04-19
