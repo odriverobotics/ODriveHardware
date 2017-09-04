@@ -6,6 +6,9 @@
 
 ### Changed
 * GPIO Pinout. See: https://docs.google.com/spreadsheets/d/1QXDCs1IRtUyG__M_9WruWOheywb-GhOwFtfPcHuN2Fg/edit#gid=404444347
+  * This enables the use of TIM5 on all GPIO pins, which is good for step/dir capture.
+  * All GPIO pins are 5v tolerant.
+  * 5th GPIO pin now available
 * Fliped LDO and C29 to bot side, for better clearance on top side for enclosure style heatsinking.
 * Changed all screw terminals to 7.62mm pitch
 * Encoder pullup resistance 1k -> 3.3k, to be compatible with 2mA push-pull encoders without desoldering.
