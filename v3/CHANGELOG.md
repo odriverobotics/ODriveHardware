@@ -11,7 +11,7 @@
 * Encoder pullup resistance 1k -> 3.3k, to be compatible with 2mA push-pull encoders without desoldering.
 
 ### Removed
-* AUX_V voltage measurment no longer available.
+* AUX_V voltage measurement no longer available.
 
 
 ## [3.2] - 2017-04-19
