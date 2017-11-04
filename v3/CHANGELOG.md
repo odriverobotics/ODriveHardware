@@ -1,4 +1,10 @@
 
+## [3.4] - UNRELEASED
+### Changed
+* Fixed grounding issue: split digital and power grounds
+* Fixed extra apparent shunt resistance, which caused a current measurement scale error
+* Change VCC silkscreen to 3.3V
+
 ## [3.3] - 2017-06-17
 ### Added
 * Power LED
