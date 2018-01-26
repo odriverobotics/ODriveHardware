@@ -1444,9 +1444,9 @@ ParamDesignator623=C20
 ParamVariation624=ParameterName=Voltage - Rated|VariantValue=50V
 ParamDesignator624=C20
 Variation17=Designator=Q25|UniqueId=\VEEDLNBO\VGBJXMWL|Kind=2|AlternatePart=NTMFS5C628NLT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=CustomComponents.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=NTMFS5C628NLT|AltLibLink_UseLibraryName=False|AltLibLink_SourceLibraryName=CustomComponents.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SO8FL_FILL|AltLibLink_IsSameFootprint=True
-ParamVariation625=ParameterName=Category|VariantValue=Discrete Semiconductor Products
+ParamVariation625=ParameterName=Comment|VariantValue=NTMFS5C628NLT
 ParamDesignator625=Q25
-ParamVariation626=ParameterName=Comment|VariantValue=NTMFS5C628NLT
+ParamVariation626=ParameterName=Category|VariantValue=Discrete Semiconductor Products
 ParamDesignator626=Q25
 ParamVariation627=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator627=Q25
@@ -1527,9 +1527,9 @@ ParamDesignator664=Q25
 ParamVariation665=ParameterName=Stock 1|VariantValue=<no parameter>
 ParamDesignator665=Q25
 Variation18=Designator=Q1|UniqueId=\DVTMVPOV\OXLYRMKI|Kind=2|AlternatePart=NTMFS5C628NLT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=CustomComponents.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=NTMFS5C628NLT|AltLibLink_UseLibraryName=False|AltLibLink_SourceLibraryName=CustomComponents.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SO8FL|AltLibLink_IsSameFootprint=False
-ParamVariation666=ParameterName=Category|VariantValue=Discrete Semiconductor Products
+ParamVariation666=ParameterName=Comment|VariantValue=NTMFS5C628NLT
 ParamDesignator666=Q1
-ParamVariation667=ParameterName=Comment|VariantValue=NTMFS5C628NLT
+ParamVariation667=ParameterName=Category|VariantValue=Discrete Semiconductor Products
 ParamDesignator667=Q1
 ParamVariation668=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator668=Q1
@@ -1606,9 +1606,9 @@ ParamDesignator703=Q1
 ParamVariation704=ParameterName=Vgs(th) (Max) @ Id|VariantValue=2V @ 135µA
 ParamDesignator704=Q1
 Variation19=Designator=Q2|UniqueId=\DVTMVPOV\GWVUDHYJ|Kind=2|AlternatePart=NTMFS5C628NLT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=CustomComponents.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=NTMFS5C628NLT|AltLibLink_UseLibraryName=False|AltLibLink_SourceLibraryName=CustomComponents.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SO8FL_FILL|AltLibLink_IsSameFootprint=True
-ParamVariation705=ParameterName=Category|VariantValue=Discrete Semiconductor Products
+ParamVariation705=ParameterName=Comment|VariantValue=NTMFS5C628NLT
 ParamDesignator705=Q2
-ParamVariation706=ParameterName=Comment|VariantValue=NTMFS5C628NLT
+ParamVariation706=ParameterName=Category|VariantValue=Discrete Semiconductor Products
 ParamDesignator706=Q2
 ParamVariation707=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator707=Q2
@@ -1689,9 +1689,9 @@ ParamDesignator744=Q2
 ParamVariation745=ParameterName=Stock 1|VariantValue=<no parameter>
 ParamDesignator745=Q2
 Variation20=Designator=Q3|UniqueId=\DVTMVPOV\KHVYKNCE|Kind=2|AlternatePart=NTMFS5C628NLT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=CustomComponents.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=NTMFS5C628NLT|AltLibLink_UseLibraryName=False|AltLibLink_SourceLibraryName=CustomComponents.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SO8FL|AltLibLink_IsSameFootprint=False
-ParamVariation746=ParameterName=Category|VariantValue=Discrete Semiconductor Products
+ParamVariation746=ParameterName=Comment|VariantValue=NTMFS5C628NLT
 ParamDesignator746=Q3
-ParamVariation747=ParameterName=Comment|VariantValue=NTMFS5C628NLT
+ParamVariation747=ParameterName=Category|VariantValue=Discrete Semiconductor Products
 ParamDesignator747=Q3
 ParamVariation748=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator748=Q3
@@ -1768,9 +1768,9 @@ ParamDesignator783=Q3
 ParamVariation784=ParameterName=Vgs(th) (Max) @ Id|VariantValue=2V @ 135µA
 ParamDesignator784=Q3
 Variation21=Designator=Q4|UniqueId=\DVTMVPOV\OISGTMGX|Kind=2|AlternatePart=NTMFS5C628NLT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=CustomComponents.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=NTMFS5C628NLT|AltLibLink_UseLibraryName=False|AltLibLink_SourceLibraryName=CustomComponents.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SO8FL_FILL|AltLibLink_IsSameFootprint=True
-ParamVariation785=ParameterName=Category|VariantValue=Discrete Semiconductor Products
+ParamVariation785=ParameterName=Comment|VariantValue=NTMFS5C628NLT
 ParamDesignator785=Q4
-ParamVariation786=ParameterName=Comment|VariantValue=NTMFS5C628NLT
+ParamVariation786=ParameterName=Category|VariantValue=Discrete Semiconductor Products
 ParamDesignator786=Q4
 ParamVariation787=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator787=Q4
@@ -1851,9 +1851,9 @@ ParamDesignator824=Q4
 ParamVariation825=ParameterName=Stock 1|VariantValue=<no parameter>
 ParamDesignator825=Q4
 Variation22=Designator=Q5|UniqueId=\DVTMVPOV\INVCWDCK|Kind=2|AlternatePart=NTMFS5C628NLT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=CustomComponents.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=NTMFS5C628NLT|AltLibLink_UseLibraryName=False|AltLibLink_SourceLibraryName=CustomComponents.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SO8FL|AltLibLink_IsSameFootprint=False
-ParamVariation826=ParameterName=Category|VariantValue=Discrete Semiconductor Products
+ParamVariation826=ParameterName=Comment|VariantValue=NTMFS5C628NLT
 ParamDesignator826=Q5
-ParamVariation827=ParameterName=Comment|VariantValue=NTMFS5C628NLT
+ParamVariation827=ParameterName=Category|VariantValue=Discrete Semiconductor Products
 ParamDesignator827=Q5
 ParamVariation828=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator828=Q5
@@ -1930,9 +1930,9 @@ ParamDesignator863=Q5
 ParamVariation864=ParameterName=Vgs(th) (Max) @ Id|VariantValue=2V @ 135µA
 ParamDesignator864=Q5
 Variation23=Designator=Q6|UniqueId=\DVTMVPOV\HYAHTURR|Kind=2|AlternatePart=NTMFS5C628NLT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=CustomComponents.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=NTMFS5C628NLT|AltLibLink_UseLibraryName=False|AltLibLink_SourceLibraryName=CustomComponents.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SO8FL_FILL|AltLibLink_IsSameFootprint=True
-ParamVariation865=ParameterName=Category|VariantValue=Discrete Semiconductor Products
+ParamVariation865=ParameterName=Comment|VariantValue=NTMFS5C628NLT
 ParamDesignator865=Q6
-ParamVariation866=ParameterName=Comment|VariantValue=NTMFS5C628NLT
+ParamVariation866=ParameterName=Category|VariantValue=Discrete Semiconductor Products
 ParamDesignator866=Q6
 ParamVariation867=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator867=Q6
@@ -2013,9 +2013,9 @@ ParamDesignator904=Q6
 ParamVariation905=ParameterName=Stock 1|VariantValue=<no parameter>
 ParamDesignator905=Q6
 Variation24=Designator=Q7|UniqueId=\DVTMVPOV\OFXYNCSO|Kind=2|AlternatePart=NTMFS5C628NLT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=CustomComponents.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=NTMFS5C628NLT|AltLibLink_UseLibraryName=False|AltLibLink_SourceLibraryName=CustomComponents.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SO8FL|AltLibLink_IsSameFootprint=False
-ParamVariation906=ParameterName=Category|VariantValue=Discrete Semiconductor Products
+ParamVariation906=ParameterName=Comment|VariantValue=NTMFS5C628NLT
 ParamDesignator906=Q7
-ParamVariation907=ParameterName=Comment|VariantValue=NTMFS5C628NLT
+ParamVariation907=ParameterName=Category|VariantValue=Discrete Semiconductor Products
 ParamDesignator907=Q7
 ParamVariation908=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator908=Q7
@@ -2092,9 +2092,9 @@ ParamDesignator943=Q7
 ParamVariation944=ParameterName=Vgs(th) (Max) @ Id|VariantValue=2V @ 135µA
 ParamDesignator944=Q7
 Variation25=Designator=Q8|UniqueId=\DVTMVPOV\WIRPJXUE|Kind=2|AlternatePart=NTMFS5C628NLT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=CustomComponents.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=NTMFS5C628NLT|AltLibLink_UseLibraryName=False|AltLibLink_SourceLibraryName=CustomComponents.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SO8FL|AltLibLink_IsSameFootprint=False
-ParamVariation945=ParameterName=Category|VariantValue=Discrete Semiconductor Products
+ParamVariation945=ParameterName=Comment|VariantValue=NTMFS5C628NLT
 ParamDesignator945=Q8
-ParamVariation946=ParameterName=Comment|VariantValue=NTMFS5C628NLT
+ParamVariation946=ParameterName=Category|VariantValue=Discrete Semiconductor Products
 ParamDesignator946=Q8
 ParamVariation947=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator947=Q8
@@ -2171,9 +2171,9 @@ ParamDesignator982=Q8
 ParamVariation983=ParameterName=Vgs(th) (Max) @ Id|VariantValue=2V @ 135µA
 ParamDesignator983=Q8
 Variation26=Designator=Q9|UniqueId=\DVTMVPOV\FUYBIKVH|Kind=2|AlternatePart=NTMFS5C628NLT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=CustomComponents.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=NTMFS5C628NLT|AltLibLink_UseLibraryName=False|AltLibLink_SourceLibraryName=CustomComponents.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SO8FL|AltLibLink_IsSameFootprint=False
-ParamVariation984=ParameterName=Category|VariantValue=Discrete Semiconductor Products
+ParamVariation984=ParameterName=Comment|VariantValue=NTMFS5C628NLT
 ParamDesignator984=Q9
-ParamVariation985=ParameterName=Comment|VariantValue=NTMFS5C628NLT
+ParamVariation985=ParameterName=Category|VariantValue=Discrete Semiconductor Products
 ParamDesignator985=Q9
 ParamVariation986=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator986=Q9
@@ -2250,9 +2250,9 @@ ParamDesignator1021=Q9
 ParamVariation1022=ParameterName=Vgs(th) (Max) @ Id|VariantValue=2V @ 135µA
 ParamDesignator1022=Q9
 Variation27=Designator=Q10|UniqueId=\DVTMVPOV\IVWRQPOG|Kind=2|AlternatePart=NTMFS5C628NLT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=CustomComponents.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=NTMFS5C628NLT|AltLibLink_UseLibraryName=False|AltLibLink_SourceLibraryName=CustomComponents.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SO8FL|AltLibLink_IsSameFootprint=False
-ParamVariation1023=ParameterName=Category|VariantValue=Discrete Semiconductor Products
+ParamVariation1023=ParameterName=Comment|VariantValue=NTMFS5C628NLT
 ParamDesignator1023=Q10
-ParamVariation1024=ParameterName=Comment|VariantValue=NTMFS5C628NLT
+ParamVariation1024=ParameterName=Category|VariantValue=Discrete Semiconductor Products
 ParamDesignator1024=Q10
 ParamVariation1025=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator1025=Q10
@@ -2329,9 +2329,9 @@ ParamDesignator1060=Q10
 ParamVariation1061=ParameterName=Vgs(th) (Max) @ Id|VariantValue=2V @ 135µA
 ParamDesignator1061=Q10
 Variation28=Designator=Q11|UniqueId=\DVTMVPOV\BMHRFYKN|Kind=2|AlternatePart=NTMFS5C628NLT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=CustomComponents.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=NTMFS5C628NLT|AltLibLink_UseLibraryName=False|AltLibLink_SourceLibraryName=CustomComponents.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SO8FL|AltLibLink_IsSameFootprint=False
-ParamVariation1062=ParameterName=Category|VariantValue=Discrete Semiconductor Products
+ParamVariation1062=ParameterName=Comment|VariantValue=NTMFS5C628NLT
 ParamDesignator1062=Q11
-ParamVariation1063=ParameterName=Comment|VariantValue=NTMFS5C628NLT
+ParamVariation1063=ParameterName=Category|VariantValue=Discrete Semiconductor Products
 ParamDesignator1063=Q11
 ParamVariation1064=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator1064=Q11
@@ -2408,9 +2408,9 @@ ParamDesignator1099=Q11
 ParamVariation1100=ParameterName=Vgs(th) (Max) @ Id|VariantValue=2V @ 135µA
 ParamDesignator1100=Q11
 Variation29=Designator=Q12|UniqueId=\DVTMVPOV\WBRSURDP|Kind=2|AlternatePart=NTMFS5C628NLT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=CustomComponents.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=NTMFS5C628NLT|AltLibLink_UseLibraryName=False|AltLibLink_SourceLibraryName=CustomComponents.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SO8FL|AltLibLink_IsSameFootprint=False
-ParamVariation1101=ParameterName=Category|VariantValue=Discrete Semiconductor Products
+ParamVariation1101=ParameterName=Comment|VariantValue=NTMFS5C628NLT
 ParamDesignator1101=Q12
-ParamVariation1102=ParameterName=Comment|VariantValue=NTMFS5C628NLT
+ParamVariation1102=ParameterName=Category|VariantValue=Discrete Semiconductor Products
 ParamDesignator1102=Q12
 ParamVariation1103=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator1103=Q12
@@ -2487,9 +2487,9 @@ ParamDesignator1138=Q12
 ParamVariation1139=ParameterName=Vgs(th) (Max) @ Id|VariantValue=2V @ 135µA
 ParamDesignator1139=Q12
 Variation30=Designator=Q13|UniqueId=\VNYOKOKT\AXGNHFLY|Kind=2|AlternatePart=NTMFS5C628NLT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=CustomComponents.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=NTMFS5C628NLT|AltLibLink_UseLibraryName=False|AltLibLink_SourceLibraryName=CustomComponents.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SO8FL|AltLibLink_IsSameFootprint=False
-ParamVariation1140=ParameterName=Category|VariantValue=Discrete Semiconductor Products
+ParamVariation1140=ParameterName=Comment|VariantValue=NTMFS5C628NLT
 ParamDesignator1140=Q13
-ParamVariation1141=ParameterName=Comment|VariantValue=NTMFS5C628NLT
+ParamVariation1141=ParameterName=Category|VariantValue=Discrete Semiconductor Products
 ParamDesignator1141=Q13
 ParamVariation1142=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator1142=Q13
@@ -2566,9 +2566,9 @@ ParamDesignator1177=Q13
 ParamVariation1178=ParameterName=Vgs(th) (Max) @ Id|VariantValue=2V @ 135µA
 ParamDesignator1178=Q13
 Variation31=Designator=Q14|UniqueId=\VNYOKOKT\MHPGIVYV|Kind=2|AlternatePart=NTMFS5C628NLT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=CustomComponents.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=NTMFS5C628NLT|AltLibLink_UseLibraryName=False|AltLibLink_SourceLibraryName=CustomComponents.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SO8FL_FILL|AltLibLink_IsSameFootprint=True
-ParamVariation1179=ParameterName=Category|VariantValue=Discrete Semiconductor Products
+ParamVariation1179=ParameterName=Comment|VariantValue=NTMFS5C628NLT
 ParamDesignator1179=Q14
-ParamVariation1180=ParameterName=Comment|VariantValue=NTMFS5C628NLT
+ParamVariation1180=ParameterName=Category|VariantValue=Discrete Semiconductor Products
 ParamDesignator1180=Q14
 ParamVariation1181=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator1181=Q14
@@ -2649,9 +2649,9 @@ ParamDesignator1218=Q14
 ParamVariation1219=ParameterName=Stock 1|VariantValue=<no parameter>
 ParamDesignator1219=Q14
 Variation32=Designator=Q15|UniqueId=\VNYOKOKT\IPQTQAJY|Kind=2|AlternatePart=NTMFS5C628NLT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=CustomComponents.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=NTMFS5C628NLT|AltLibLink_UseLibraryName=False|AltLibLink_SourceLibraryName=CustomComponents.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SO8FL|AltLibLink_IsSameFootprint=False
-ParamVariation1220=ParameterName=Category|VariantValue=Discrete Semiconductor Products
+ParamVariation1220=ParameterName=Comment|VariantValue=NTMFS5C628NLT
 ParamDesignator1220=Q15
-ParamVariation1221=ParameterName=Comment|VariantValue=NTMFS5C628NLT
+ParamVariation1221=ParameterName=Category|VariantValue=Discrete Semiconductor Products
 ParamDesignator1221=Q15
 ParamVariation1222=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator1222=Q15
@@ -2728,9 +2728,9 @@ ParamDesignator1257=Q15
 ParamVariation1258=ParameterName=Vgs(th) (Max) @ Id|VariantValue=2V @ 135µA
 ParamDesignator1258=Q15
 Variation33=Designator=Q16|UniqueId=\VNYOKOKT\BLOGXPJV|Kind=2|AlternatePart=NTMFS5C628NLT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=CustomComponents.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=NTMFS5C628NLT|AltLibLink_UseLibraryName=False|AltLibLink_SourceLibraryName=CustomComponents.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SO8FL_FILL|AltLibLink_IsSameFootprint=True
-ParamVariation1259=ParameterName=Category|VariantValue=Discrete Semiconductor Products
+ParamVariation1259=ParameterName=Comment|VariantValue=NTMFS5C628NLT
 ParamDesignator1259=Q16
-ParamVariation1260=ParameterName=Comment|VariantValue=NTMFS5C628NLT
+ParamVariation1260=ParameterName=Category|VariantValue=Discrete Semiconductor Products
 ParamDesignator1260=Q16
 ParamVariation1261=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator1261=Q16
@@ -2811,9 +2811,9 @@ ParamDesignator1298=Q16
 ParamVariation1299=ParameterName=Stock 1|VariantValue=<no parameter>
 ParamDesignator1299=Q16
 Variation34=Designator=Q17|UniqueId=\VNYOKOKT\QGRKAMUO|Kind=2|AlternatePart=NTMFS5C628NLT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=CustomComponents.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=NTMFS5C628NLT|AltLibLink_UseLibraryName=False|AltLibLink_SourceLibraryName=CustomComponents.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SO8FL|AltLibLink_IsSameFootprint=False
-ParamVariation1300=ParameterName=Category|VariantValue=Discrete Semiconductor Products
+ParamVariation1300=ParameterName=Comment|VariantValue=NTMFS5C628NLT
 ParamDesignator1300=Q17
-ParamVariation1301=ParameterName=Comment|VariantValue=NTMFS5C628NLT
+ParamVariation1301=ParameterName=Category|VariantValue=Discrete Semiconductor Products
 ParamDesignator1301=Q17
 ParamVariation1302=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator1302=Q17
@@ -2890,9 +2890,9 @@ ParamDesignator1337=Q17
 ParamVariation1338=ParameterName=Vgs(th) (Max) @ Id|VariantValue=2V @ 135µA
 ParamDesignator1338=Q17
 Variation35=Designator=Q18|UniqueId=\VNYOKOKT\EHQSQLSN|Kind=2|AlternatePart=NTMFS5C628NLT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=CustomComponents.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=NTMFS5C628NLT|AltLibLink_UseLibraryName=False|AltLibLink_SourceLibraryName=CustomComponents.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SO8FL_FILL|AltLibLink_IsSameFootprint=True
-ParamVariation1339=ParameterName=Category|VariantValue=Discrete Semiconductor Products
+ParamVariation1339=ParameterName=Comment|VariantValue=NTMFS5C628NLT
 ParamDesignator1339=Q18
-ParamVariation1340=ParameterName=Comment|VariantValue=NTMFS5C628NLT
+ParamVariation1340=ParameterName=Category|VariantValue=Discrete Semiconductor Products
 ParamDesignator1340=Q18
 ParamVariation1341=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator1341=Q18
@@ -2973,9 +2973,9 @@ ParamDesignator1378=Q18
 ParamVariation1379=ParameterName=Stock 1|VariantValue=<no parameter>
 ParamDesignator1379=Q18
 Variation36=Designator=Q19|UniqueId=\VNYOKOKT\ISVTGVPB|Kind=2|AlternatePart=NTMFS5C628NLT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=CustomComponents.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=NTMFS5C628NLT|AltLibLink_UseLibraryName=False|AltLibLink_SourceLibraryName=CustomComponents.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SO8FL|AltLibLink_IsSameFootprint=False
-ParamVariation1380=ParameterName=Category|VariantValue=Discrete Semiconductor Products
+ParamVariation1380=ParameterName=Comment|VariantValue=NTMFS5C628NLT
 ParamDesignator1380=Q19
-ParamVariation1381=ParameterName=Comment|VariantValue=NTMFS5C628NLT
+ParamVariation1381=ParameterName=Category|VariantValue=Discrete Semiconductor Products
 ParamDesignator1381=Q19
 ParamVariation1382=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator1382=Q19
@@ -3052,9 +3052,9 @@ ParamDesignator1417=Q19
 ParamVariation1418=ParameterName=Vgs(th) (Max) @ Id|VariantValue=2V @ 135µA
 ParamDesignator1418=Q19
 Variation37=Designator=Q20|UniqueId=\VNYOKOKT\KCSPFFUC|Kind=2|AlternatePart=NTMFS5C628NLT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=CustomComponents.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=NTMFS5C628NLT|AltLibLink_UseLibraryName=False|AltLibLink_SourceLibraryName=CustomComponents.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SO8FL|AltLibLink_IsSameFootprint=False
-ParamVariation1419=ParameterName=Category|VariantValue=Discrete Semiconductor Products
+ParamVariation1419=ParameterName=Comment|VariantValue=NTMFS5C628NLT
 ParamDesignator1419=Q20
-ParamVariation1420=ParameterName=Comment|VariantValue=NTMFS5C628NLT
+ParamVariation1420=ParameterName=Category|VariantValue=Discrete Semiconductor Products
 ParamDesignator1420=Q20
 ParamVariation1421=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator1421=Q20
@@ -3131,9 +3131,9 @@ ParamDesignator1456=Q20
 ParamVariation1457=ParameterName=Vgs(th) (Max) @ Id|VariantValue=2V @ 135µA
 ParamDesignator1457=Q20
 Variation38=Designator=Q21|UniqueId=\VNYOKOKT\DHQWGDQJ|Kind=2|AlternatePart=NTMFS5C628NLT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=CustomComponents.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=NTMFS5C628NLT|AltLibLink_UseLibraryName=False|AltLibLink_SourceLibraryName=CustomComponents.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SO8FL|AltLibLink_IsSameFootprint=False
-ParamVariation1458=ParameterName=Category|VariantValue=Discrete Semiconductor Products
+ParamVariation1458=ParameterName=Comment|VariantValue=NTMFS5C628NLT
 ParamDesignator1458=Q21
-ParamVariation1459=ParameterName=Comment|VariantValue=NTMFS5C628NLT
+ParamVariation1459=ParameterName=Category|VariantValue=Discrete Semiconductor Products
 ParamDesignator1459=Q21
 ParamVariation1460=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator1460=Q21
@@ -3210,9 +3210,9 @@ ParamDesignator1495=Q21
 ParamVariation1496=ParameterName=Vgs(th) (Max) @ Id|VariantValue=2V @ 135µA
 ParamDesignator1496=Q21
 Variation39=Designator=Q22|UniqueId=\VNYOKOKT\NVSBPLCD|Kind=2|AlternatePart=NTMFS5C628NLT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=CustomComponents.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=NTMFS5C628NLT|AltLibLink_UseLibraryName=False|AltLibLink_SourceLibraryName=CustomComponents.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SO8FL|AltLibLink_IsSameFootprint=False
-ParamVariation1497=ParameterName=Category|VariantValue=Discrete Semiconductor Products
+ParamVariation1497=ParameterName=Comment|VariantValue=NTMFS5C628NLT
 ParamDesignator1497=Q22
-ParamVariation1498=ParameterName=Comment|VariantValue=NTMFS5C628NLT
+ParamVariation1498=ParameterName=Category|VariantValue=Discrete Semiconductor Products
 ParamDesignator1498=Q22
 ParamVariation1499=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator1499=Q22
@@ -3289,9 +3289,9 @@ ParamDesignator1534=Q22
 ParamVariation1535=ParameterName=Vgs(th) (Max) @ Id|VariantValue=2V @ 135µA
 ParamDesignator1535=Q22
 Variation40=Designator=Q23|UniqueId=\VNYOKOKT\TMGCATKR|Kind=2|AlternatePart=NTMFS5C628NLT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=CustomComponents.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=NTMFS5C628NLT|AltLibLink_UseLibraryName=False|AltLibLink_SourceLibraryName=CustomComponents.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SO8FL|AltLibLink_IsSameFootprint=False
-ParamVariation1536=ParameterName=Category|VariantValue=Discrete Semiconductor Products
+ParamVariation1536=ParameterName=Comment|VariantValue=NTMFS5C628NLT
 ParamDesignator1536=Q23
-ParamVariation1537=ParameterName=Comment|VariantValue=NTMFS5C628NLT
+ParamVariation1537=ParameterName=Category|VariantValue=Discrete Semiconductor Products
 ParamDesignator1537=Q23
 ParamVariation1538=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator1538=Q23
@@ -3368,9 +3368,9 @@ ParamDesignator1573=Q23
 ParamVariation1574=ParameterName=Vgs(th) (Max) @ Id|VariantValue=2V @ 135µA
 ParamDesignator1574=Q23
 Variation41=Designator=Q24|UniqueId=\VNYOKOKT\RBJDVKKD|Kind=2|AlternatePart=NTMFS5C628NLT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=CustomComponents.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=NTMFS5C628NLT|AltLibLink_UseLibraryName=False|AltLibLink_SourceLibraryName=CustomComponents.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SO8FL|AltLibLink_IsSameFootprint=False
-ParamVariation1575=ParameterName=Category|VariantValue=Discrete Semiconductor Products
+ParamVariation1575=ParameterName=Comment|VariantValue=NTMFS5C628NLT
 ParamDesignator1575=Q24
-ParamVariation1576=ParameterName=Comment|VariantValue=NTMFS5C628NLT
+ParamVariation1576=ParameterName=Category|VariantValue=Discrete Semiconductor Products
 ParamDesignator1576=Q24
 ParamVariation1577=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator1577=Q24
@@ -3447,9 +3447,9 @@ ParamDesignator1612=Q24
 ParamVariation1613=ParameterName=Vgs(th) (Max) @ Id|VariantValue=2V @ 135µA
 ParamDesignator1613=Q24
 Variation42=Designator=Q26|UniqueId=\VEEDLNBO\OOVVLSYY|Kind=2|AlternatePart=NTMFS5C628NLT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=CustomComponents.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=NTMFS5C628NLT|AltLibLink_UseLibraryName=False|AltLibLink_SourceLibraryName=CustomComponents.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SO8FL|AltLibLink_IsSameFootprint=False
-ParamVariation1614=ParameterName=Category|VariantValue=Discrete Semiconductor Products
+ParamVariation1614=ParameterName=Comment|VariantValue=NTMFS5C628NLT
 ParamDesignator1614=Q26
-ParamVariation1615=ParameterName=Comment|VariantValue=NTMFS5C628NLT
+ParamVariation1615=ParameterName=Category|VariantValue=Discrete Semiconductor Products
 ParamDesignator1615=Q26
 ParamVariation1616=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator1616=Q26
@@ -3526,9 +3526,9 @@ ParamDesignator1651=Q26
 ParamVariation1652=ParameterName=Vgs(th) (Max) @ Id|VariantValue=2V @ 135µA
 ParamDesignator1652=Q26
 Variation43=Designator=Q27|UniqueId=\VEEDLNBO\HMSLNMIU|Kind=2|AlternatePart=NTMFS5C628NLT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=CustomComponents.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=NTMFS5C628NLT|AltLibLink_UseLibraryName=False|AltLibLink_SourceLibraryName=CustomComponents.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SO8FL|AltLibLink_IsSameFootprint=False
-ParamVariation1653=ParameterName=Category|VariantValue=Discrete Semiconductor Products
+ParamVariation1653=ParameterName=Comment|VariantValue=NTMFS5C628NLT
 ParamDesignator1653=Q27
-ParamVariation1654=ParameterName=Comment|VariantValue=NTMFS5C628NLT
+ParamVariation1654=ParameterName=Category|VariantValue=Discrete Semiconductor Products
 ParamDesignator1654=Q27
 ParamVariation1655=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator1655=Q27
@@ -3605,9 +3605,9 @@ ParamDesignator1690=Q27
 ParamVariation1691=ParameterName=Vgs(th) (Max) @ Id|VariantValue=2V @ 135µA
 ParamDesignator1691=Q27
 Variation44=Designator=Q28|UniqueId=\VEEDLNBO\GWYWNENU|Kind=2|AlternatePart=NTMFS5C628NLT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=CustomComponents.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=NTMFS5C628NLT|AltLibLink_UseLibraryName=False|AltLibLink_SourceLibraryName=CustomComponents.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=SO8FL|AltLibLink_IsSameFootprint=False
-ParamVariation1692=ParameterName=Category|VariantValue=Discrete Semiconductor Products
+ParamVariation1692=ParameterName=Comment|VariantValue=NTMFS5C628NLT
 ParamDesignator1692=Q28
-ParamVariation1693=ParameterName=Comment|VariantValue=NTMFS5C628NLT
+ParamVariation1693=ParameterName=Category|VariantValue=Discrete Semiconductor Products
 ParamDesignator1693=Q28
 ParamVariation1694=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator1694=Q28
@@ -3684,9 +3684,9 @@ ParamDesignator1729=Q28
 ParamVariation1730=ParameterName=Vgs(th) (Max) @ Id|VariantValue=2V @ 135µA
 ParamDesignator1730=Q28
 Variation45=Designator=R6|UniqueId=\TDBVJFYU|Kind=2|AlternatePart=18k|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=CustomComponents.SchLib|AltLibLink_SymbolReference=RC0603FR-0710KL|AltLibLink_DesignItemID=RC0603FR-0718KL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=CustomComponents.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC1608X55N|AltLibLink_IsSameFootprint=True
-ParamVariation1731=ParameterName=Category|VariantValue=Resistors
+ParamVariation1731=ParameterName=Comment|VariantValue=18k
 ParamDesignator1731=R6
-ParamVariation1732=ParameterName=Comment|VariantValue=18k
+ParamVariation1732=ParameterName=Category|VariantValue=Resistors
 ParamDesignator1732=R6
 ParamVariation1733=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator1733=R6
