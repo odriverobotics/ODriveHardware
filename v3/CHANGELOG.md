@@ -1,9 +1,42 @@
 
-## [3.4] - UNRELEASED
+## [3.5] - 2018-04-24
+### Added
+* Ground planes: 4 layer board
+  * Logic side planes are GND, AGND
+  * Power side planes are PGND, DC_BUS
+* GPIO 6,7,8
+  * Expose TIM2 CH 1,2
+  * One extra ADC capable pin
+  * See: https://docs.google.com/spreadsheets/d/1QXDCs1IRtUyG__M_9WruWOheywb-GhOwFtfPcHuN2Fg/edit#gid=949495736
+* Two channel DIP switch:
+  * Actuate BOOT0 pin to enter bootloader
+  * Connect/disconnect CAN termination resistor
+* Optional RC filters on step/dir/en and UART lines: GPIO 1,2,6,7,8.
+* Strong pull-down resistors on the control signals to the AUX half-H to counteract weak pullups actiavated in DFU mode.
+* Two GND pins on J3
+* 5V pin on J2
+
+### Changed
+* Moved DVDD cap from AGND to GND
+* Moved GPIO_5 to PC4
+* Change C1 from 2.2uF to 270pF for cycle by cycle Vbus check
+* ~~Board voltage determined by stickers (not silkscreen)~~
+
+### Removed
+* DC_CAL signals
+* AUX current sense amplifier
+
+### Fixed
+* Clearance of shunt resistor kelvin connections now enforced with net-tie
+* Silkscreen on J2 VCC -> 3.3V
+
+
+## [3.4] - 2017-11-04
 ### Changed
 * Fixed grounding issue: split digital and power grounds
 * Fixed extra apparent shunt resistance, which caused a current measurement scale error
 * Change VCC silkscreen to 3.3V
+
 
 ## [3.3] - 2017-06-17
 ### Added
