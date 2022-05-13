@@ -4,7 +4,7 @@
     "active_layer_preset": "All Layers",
     "auto_track_width": true,
     "hidden_nets": [],
-    "high_contrast_mode": 0,
+    "high_contrast_mode": 1,
     "net_color_mode": 1,
     "opacity": {
       "pads": 1.0,
